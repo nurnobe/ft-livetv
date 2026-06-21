@@ -1,5 +1,12 @@
 {
-"versionCode": 2,
-"versionName": "2.0",
-"apkUrl": "https://github.com/nurnobe/ft-livetv/releases/download/v2/app-release.apk"
+  "versionCode": 3,
+  "versionName": "3.0",
+  "apkUrl": "https://github.com/nurnobe/ft-livetv/releases/download/v3/app-release.apk",
+  "changes": [
+    "Added custom No Internet page",
+    "Added dynamic update changelog system",
+    "Fixed update dialog showing on Back button",
+    "Improved update version checking",
+    "Improved app stability and user experience"
+  ]
 }
