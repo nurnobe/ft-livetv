@@ -3,10 +3,15 @@
   "versionName": "3.0",
   "apkUrl": "https://github.com/nurnobe/ft-livetv/releases/download/v3/app-release.apk",
   "changes": [
-    "Added custom No Internet page",
-    "Added dynamic update changelog system",
-    "Fixed update dialog showing on Back button",
-    "Improved update version checking",
-    "Improved app stability and user experience"
+    "Added custom No Internet page with Retry and Exit options",
+    "Added dynamic update changelog support from version.json",
+    "Added in-app APK download with progress indicator",
+    "Added automatic install screen after update download completes",
+    "Added Android install permission handling for APK updates",
+    "Added a custom Exit App confirmation popup",
+    "Fixed update popup showing when pressing the Back button",
+    "Improved update version checking to prevent repeated same-version prompts",
+    "Improved fullscreen and WebView user experience",
+    "Improved overall app stability"
   ]
 }
